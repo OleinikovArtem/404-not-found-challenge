@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'https://oleinikovartem.github.io/',
+  base: '/404-not-found-challenge/',
   plugins: [react()]
 })
